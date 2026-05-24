@@ -62,8 +62,3 @@ pip install numpy pandas scikit-learn gensim matplotlib seaborn
 
 3. Run the Jupyter Notebook or Python script to execute the machine learning models and perform news classification.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-Feel free to explore the Jupyter Notebook for a detailed step-by-step explanation of the project and its implementation.
